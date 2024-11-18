@@ -1,0 +1,14 @@
+D:\Study_comp\Examples\Example_1\Ex_1\bin\Debug\net8.0\Ex_1.exe
+D:\Study_comp\Examples\Example_1\Ex_1\bin\Debug\net8.0\Ex_1.deps.json
+D:\Study_comp\Examples\Example_1\Ex_1\bin\Debug\net8.0\Ex_1.runtimeconfig.json
+D:\Study_comp\Examples\Example_1\Ex_1\bin\Debug\net8.0\Ex_1.dll
+D:\Study_comp\Examples\Example_1\Ex_1\bin\Debug\net8.0\Ex_1.pdb
+D:\Study_comp\Examples\Example_1\Ex_1\obj\Debug\net8.0\Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_comp\Examples\Example_1\Ex_1\obj\Debug\net8.0\Ex_1.AssemblyInfoInputs.cache
+D:\Study_comp\Examples\Example_1\Ex_1\obj\Debug\net8.0\Ex_1.AssemblyInfo.cs
+D:\Study_comp\Examples\Example_1\Ex_1\obj\Debug\net8.0\Ex_1.csproj.CoreCompileInputs.cache
+D:\Study_comp\Examples\Example_1\Ex_1\obj\Debug\net8.0\Ex_1.dll
+D:\Study_comp\Examples\Example_1\Ex_1\obj\Debug\net8.0\refint\Ex_1.dll
+D:\Study_comp\Examples\Example_1\Ex_1\obj\Debug\net8.0\Ex_1.pdb
+D:\Study_comp\Examples\Example_1\Ex_1\obj\Debug\net8.0\Ex_1.genruntimeconfig.cache
+D:\Study_comp\Examples\Example_1\Ex_1\obj\Debug\net8.0\ref\Ex_1.dll
